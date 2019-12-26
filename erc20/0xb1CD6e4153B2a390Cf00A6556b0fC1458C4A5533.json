@@ -1,0 +1,21 @@
+{
+  "symbol": "ETHBNT",
+  "address": "0xb1CD6e4153B2a390Cf00A6556b0fC1458C4A5533",
+  "overview": {
+    "en": "The pool token of the ETH:BNT liquidity pool. ETHBNT collects fees from every ETH-based conversion on the Bancor Network."
+  },
+  "email": "contact@bancor.network",
+  "website": "https://www.bancor.network",
+  "whitepaper": "https://storage.googleapis.com/website-bancor/2018/04/01ba8253-bancor_protocol_whitepaper_en.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-01-01",
+  "links": {
+    "blog": "https://blog.bancor.network",
+    "twitter": "https://twitter.com/bancor",
+    "telegram": "https://t.me/bancor",
+    "reddit": "https://www.reddit.com/r/Bancor",
+    "github": "https://github.com/bancorprotocol",
+    "facebook": "https://www.facebook.com/bancor",
+    "medium": "https://blog.bancor.network"
+  }
+}

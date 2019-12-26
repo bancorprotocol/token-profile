@@ -2,7 +2,7 @@
   "symbol": "ETHBNT",
   "address": "0xb1CD6e4153B2a390Cf00A6556b0fC1458C4A5533",
   "overview": {
-    "en": "The pool token of the ETH:BNT liquidity pool. ETHBNT collects fees from every ETH-based conversion on the Bancor Network."
+    "en": "ETHBNT is a Bancor pool token representing shares in the ETHBNT liquidity pool. ETHBNT collects fees from ETH-based conversions on the Bancor Network."
   },
   "email": "contact@bancor.network",
   "website": "https://www.bancor.network",
